@@ -1,0 +1,9 @@
+macro ABC 
+  load a
+  add b
+mend
+
+macro PQR
+   load b
+   sub a
+mend

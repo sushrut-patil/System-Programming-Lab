@@ -1,0 +1,9 @@
+.code
+load x
+add 3
+sub 4
+mult y
+store 5
+load 3
+add 4
+endp

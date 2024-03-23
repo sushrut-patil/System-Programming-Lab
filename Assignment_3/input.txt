@@ -1,0 +1,4 @@
+.code
+XYZ 3,4,5
+ABC 3,4
+endp
